@@ -1,8 +1,6 @@
-# fulltext_search
+# Fulltext search on firestore data
 
-A new Flutter project.
+For further details - https://www.youtube.com/watch?v=0szEJiCUtMM&feature=youtu.be
 
-## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+
